@@ -12,4 +12,7 @@
 - `Column` - arranges elements vertically
 - `modifiers` - used to configure/decorate composable
 
-Lesson 3: Material Design
+## Lesson 3: Material Design
+- With `Compose`, Material Design and its UI elements are provided out of the box.
+- 3 Pillars of Material Design: Color, Typography, Shape
+- `Theme.kt` - File where themes (i.e light, dark) are defined
